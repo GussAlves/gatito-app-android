@@ -1,7 +1,7 @@
 import React from 'react';
 import { TextInput } from 'react-native';
-import estilos from '../../estilos';
 
+import estilos from '../../estilos';
 import estilosPadrao from './estilos';
 
 export default function CampoInteiro({valor, acao}) {
